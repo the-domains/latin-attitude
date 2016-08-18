@@ -1,14 +1,26 @@
-layout_spectrum: 0.6538342
-typography_spectrum: 0.2544455
+layout_spectrum: 1
+name: Latin Attitude
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.5708966
   brandStrength: 1
+  lightness: 0.5708966
   saturation: 0.6464409
   rhythmicContrast: 0.159695
   brandColors:
     - '#FFFFFF'
-    - '#000000'
-    - '#BBBBBB'
-    - '#5C5C5C'
-    - '#828282'
-name: Latin Attitude
+    - '#74503D'
+    - '#BAB0B5'
+    - '#230E12'
+    - '#96878C'
+typography_spectrum: 0.4468803
