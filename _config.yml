@@ -1,0 +1,14 @@
+layout_spectrum: 0.6538342
+typography_spectrum: 0.2544455
+color:
+  lightness: 0.5708966
+  brandStrength: 1
+  saturation: 0.6464409
+  rhythmicContrast: 0.159695
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#BBBBBB'
+    - '#5C5C5C'
+    - '#828282'
+name: Latin Attitude
