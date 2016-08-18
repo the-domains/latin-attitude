@@ -1,7 +1,7 @@
 name: Latin Attitude
 favicon: null
 layout_spectrum: 0.50223
-typography_spectrum: 0.4468803
+typography_spectrum: 0.07624
 collections:
   - index:
       navigable: true
