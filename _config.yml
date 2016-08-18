@@ -1,5 +1,7 @@
-layout_spectrum: 1
 name: Latin Attitude
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4468803
 collections:
   - index:
       navigable: true
@@ -12,15 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: 'Latin Attitude, End Of the Road, Pavones, Costa Rica.'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 1
-  lightness: 0.5708966
-  saturation: 0.6464409
-  rhythmicContrast: 0.159695
   brandColors:
     - '#FFFFFF'
     - '#74503D'
     - '#BAB0B5'
     - '#230E12'
     - '#96878C'
-typography_spectrum: 0.4468803
+  brandStrength: 1
+  lightness: 0.5708966
+  saturation: 0.6464409
+  rhythmicContrast: 0.159695
+purpose: []
