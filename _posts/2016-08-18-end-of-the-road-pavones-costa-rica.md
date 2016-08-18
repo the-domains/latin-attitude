@@ -2,21 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-18T14:18:28.054Z'
-dateModified: '2016-08-18T14:18:22.876Z'
-title: 'End of the road, Pavones, Costa Rica'
-author: []
+description: 'End of the road, Pavones, Costa Rica'
+datePublished: '2016-08-18T14:23:11.171Z'
+dateModified: '2016-08-18T14:22:48.951Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-18-end-of-the-road-pavones-costa-rica.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 _type: Blurb
