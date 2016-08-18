@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: 'End of the road, Pavones, Costa Rica'
-datePublished: '2016-08-18T14:36:16.157Z'
-dateModified: '2016-08-18T14:31:18.628Z'
+description: ''
+datePublished: '2016-08-18T14:53:12.380Z'
+dateModified: '2016-08-18T14:52:39.170Z'
 title: ''
 author:
   - name: ''
@@ -15,11 +15,7 @@ author:
 via: {}
 sourcePath: _posts/2016-08-18-end-of-the-road-pavones-costa-rica.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 starred: false
 _type: Blurb
 
